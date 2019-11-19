@@ -1,0 +1,15 @@
+{
+  "name": "LimeAPI",
+  "version": "1.0.0",
+  "description": "A small CLI for LimeSurvey",
+  "main": "index.js",
+  "author": "Markus Fluer",
+  "license": "GPL2.0",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15",
+    "yargs": "^15.0.1"
+  }
+}

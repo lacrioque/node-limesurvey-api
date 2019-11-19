@@ -1,0 +1,7 @@
+{
+    "credentials" : {
+        "username": "admin",
+        "password": "password"
+    },
+    "url" : "https://limesurvey.localhost/index.php/admin/remotecontrol"
+}
